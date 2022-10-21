@@ -131,16 +131,22 @@ body * {
     .left-login > h1 {
         display: none;
     }
+
+    .right-login{
+        height: 80%;
+    }
+
     .left-login {
         width: 100%;
         height: auto;
     }
     .left-login-img {
         width: 
-        25vh;
+        26vh;
     }
     .card-login {
         width: 90%;
+
         
     }
 }
