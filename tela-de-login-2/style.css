@@ -143,6 +143,7 @@ body * {
     .left-login-img {
         width: 
         26vh;
+        padding-top: 30px;
     }
     .card-login {
         width: 90%;
